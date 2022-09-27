@@ -1,0 +1,1 @@
+double first_root(double a, double b, double c);

@@ -1,0 +1,1 @@
+double det(double a, double b, double c);

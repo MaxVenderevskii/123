@@ -1,0 +1,1 @@
+double second_root(double a, double b, double c);
